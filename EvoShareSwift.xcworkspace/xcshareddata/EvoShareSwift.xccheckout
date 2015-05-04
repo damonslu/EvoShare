@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F9DCEBE2-95A9-48AC-815A-8AA2CBCDE31E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EvoShareSwift</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0EB12510263722C9D919E8ECC5CCFFB5C7C3BE9C</key>
+		<string>https://github.com/ivlasov/EvoShare</string>
+		<key>5B0A16E93D752BB97720FD84ADC04961C8633CC5</key>
+		<string>https://github.com/MTU-ukr/Evo</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>EvoShareSwift.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0EB12510263722C9D919E8ECC5CCFFB5C7C3BE9C</key>
+		<string>..</string>
+		<key>5B0A16E93D752BB97720FD84ADC04961C8633CC5</key>
+		<string>../../EvoShare</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ivlasov/EvoShare</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0EB12510263722C9D919E8ECC5CCFFB5C7C3BE9C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5B0A16E93D752BB97720FD84ADC04961C8633CC5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>EvoShare</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0EB12510263722C9D919E8ECC5CCFFB5C7C3BE9C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>EvoShareNew</string>
+		</dict>
+	</array>
+</dict>
+</plist>
